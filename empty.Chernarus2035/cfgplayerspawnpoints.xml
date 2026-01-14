@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+  <fresh>
+    <spawn_params>
+      <min_dist_infected>30</min_dist_infected>
+      <max_dist_infected>70</max_dist_infected>
+      <min_dist_player>65</min_dist_player>
+      <max_dist_player>150</max_dist_player>
+      <min_dist_static>0</min_dist_static>
+      <max_dist_static>2</max_dist_static>
+    </spawn_params>
+    <generator_params>
+      <grid_density>4</grid_density>
+      <grid_width>200</grid_width>
+      <grid_height>200</grid_height>
+      <min_dist_static>0</min_dist_static>
+      <max_dist_static>2</max_dist_static>
+      <min_steepness>-45</min_steepness>
+      <max_steepness>45</max_steepness>
+      <allow_in_water>false</allow_in_water>
+    </generator_params>
+    <group_params>
+      <enablegroups>true</enablegroups>
+      <groups_as_regular>true</groups_as_regular>
+      <lifetime>240</lifetime>
+      <counter>-1</counter>
+    </group_params>
+    <generator_posbubbles>
+      <group name="WestCherno">
+        <pos x="6355.555" z="7506.667" />
+        <pos x="5920" z="7217.777" />
+        <pos x="6129.091" z="7058.182" />
+        <pos x="7005.455" z="7274.545" />
+      </group>
+      <group name="EastCherno">
+        <pos x="7886.667" z="8540" />
+        <pos x="7590.909" z="8249.091" />
+        <pos x="7972.727" z="8321.818" />
+        <pos x="8136.363" z="8254.545" />
+      </group>
+      <group name="WestElektro">
+        <pos x="9249.091" z="7160" />
+        <pos x="9498.182" z="7029.091" />
+        <pos x="9656.363" z="6909.091" />
+        <pos x="9865.454" z="7345.455" />
+        <pos x="9550.909" z="7307.272" />
+      </group>
+      <group name="EastElektro">
+        <pos x="10581.82" z="7183.636" />
+        <pos x="10756.36" z="7400" />
+        <pos x="10790.91" z="7692.727" />
+        <pos x="10983.64" z="7870.909" />
+      </group>
+      <group name="Kamyshovo">
+        <pos x="11874.54" z="8550.909" />
+        <pos x="11923.64" z="8640" />
+        <pos x="11960" z="8563.636" />
+        <pos x="12181.82" z="8600" />
+        <pos x="12274.54" z="8663.636" />
+      </group>
+      <group name="Solnechny">
+        <pos x="13420" z="10925.45" />
+        <pos x="13440" z="11070.91" />
+        <pos x="13521.82" z="11289.09" />
+        <pos x="13516.36" z="11452.73" />
+        <pos x="13307.27" z="11530.91" />
+      </group>
+      <group name="Nizhnee">
+        <pos x="13023.64" z="13032.73" />
+        <pos x="12960" z="13370.91" />
+        <pos x="13058.18" z="13467.27" />
+        <pos x="12930.91" z="13514.54" />
+      </group>
+      <group name="SouthBerezino">
+        <pos x="12856.36" z="14434.54" />
+        <pos x="12603.64" z="14560" />
+        <pos x="12945.45" z="14629.09" />
+      </group>
+      <group name="Khelm">
+        <pos x="12175.55" z="15837.78" />
+        <pos x="12626.67" z="15728.89" />
+        <pos x="12377.78" z="16380" />
+      </group>
+      <group name="Orlovets">
+        <pos x="12304.44" z="12913.33" />
+        <pos x="12615.55" z="12413.33" />
+        <pos x="12033.33" z="12060" />
+        <pos x="12600" z="11755.55" />
+      </group>
+      <group name="NorthBerezino">
+        <pos x="13145.45" z="15660" />
+        <pos x="13163.64" z="15409.09" />
+        <pos x="12821.82" z="15334.54" />
+        <pos x="12903.64" z="15656.36" />
+        <pos x="13274.54" z="15080" />
+        <pos x="13012.73" z="15290.91" />
+        <pos x="12610.91" z="15543.64" />
+        <pos x="12498.18" z="15309.09" />
+      </group>
+    </generator_posbubbles>
+  </fresh>
+  <hop>
+    <spawn_params>
+      <min_dist_infected>30.0</min_dist_infected>
+      <max_dist_infected>70.0</max_dist_infected>
+      <min_dist_player>25.0</min_dist_player>
+      <max_dist_player>70.0</max_dist_player>
+      <min_dist_static>0.5</min_dist_static>
+      <max_dist_static>2.0</max_dist_static>
+    </spawn_params>
+    <generator_params>
+      <grid_density>4</grid_density>
+      <grid_width>150</grid_width>
+      <grid_height>150</grid_height>
+      <min_dist_static>0</min_dist_static>
+      <max_dist_static>2</max_dist_static>
+      <min_steepness>-45</min_steepness>
+      <max_steepness>45</max_steepness>
+      <allow_in_water>false</allow_in_water>
+    </generator_params>
+    <group_params>
+      <enablegroups>false</enablegroups>
+      <groups_as_regular>true</groups_as_regular>
+      <lifetime>360</lifetime>
+      <counter>-1</counter>
+    </group_params>
+    <generator_posbubbles>
+      <group name="Balota">
+        <pos x="4777.5" z="7360" />
+        <pos x="4092.5" z="7512.5" />
+        <pos x="4507.5" z="8140" />
+        <pos x="3902.5" z="8125" />
+        <pos x="4170" z="8010" />
+        <pos x="5460" z="7746.667" />
+      </group>
+      <group name="Cherno">
+        <pos x="5440" z="8197.143" />
+        <pos x="5575" z="8617.5" />
+        <pos x="5457.5" z="8730" />
+        <pos x="5267.5" z="8625" />
+        <pos x="5345" z="9275" />
+      </group>
+      <group name="Pusta">
+        <pos x="9915" z="8310" />
+        <pos x="9465" z="8245" />
+        <pos x="9145" z="8195" />
+        <pos x="9485" z="8980" />
+        <pos x="9320" z="9295" />
+      </group>
+      <group name="Kamyshovo">
+        <pos x="12428" z="9640" />
+        <pos x="11904" z="9700" />
+        <pos x="11592" z="9608" />
+        <pos x="11412" z="9312" />
+      </group>
+      <group name="Solnechny">
+        <pos x="12946.67" z="11413.33" />
+        <pos x="12716.67" z="11440" />
+        <pos x="12600" z="11756.67" />
+        <pos x="12033.33" z="12053.33" />
+        <pos x="12513.33" z="12263.33" />
+      </group>
+      <group name="Nizhnee">
+        <pos x="12468" z="13152" />
+        <pos x="11968" z="13148" />
+        <pos x="11712" z="13260" />
+        <pos x="11824" z="13520" />
+        <pos x="11528" z="13568" />
+        <pos x="11788" z="13028" />
+      </group>
+      <group name="Berezino">
+        <pos x="11000" z="14740" />
+        <pos x="10965" z="15125" />
+        <pos x="11235" z="15270" />
+        <pos x="10580" z="14580" />
+        <pos x="11110" z="15730" />
+      </group>
+    </generator_posbubbles>
+  </hop>
+  <travel>
+    <spawn_params>
+      <min_dist_infected>30.0</min_dist_infected>
+      <max_dist_infected>70.0</max_dist_infected>
+      <min_dist_player>25.0</min_dist_player>
+      <max_dist_player>70.0</max_dist_player>
+      <min_dist_static>0.5</min_dist_static>
+      <max_dist_static>2.0</max_dist_static>
+    </spawn_params>
+    <generator_params>
+      <grid_density>4</grid_density>
+      <grid_width>150</grid_width>
+      <grid_height>150</grid_height>
+      <min_dist_static>0</min_dist_static>
+      <max_dist_static>2</max_dist_static>
+      <min_steepness>-45</min_steepness>
+      <max_steepness>45</max_steepness>
+      <allow_in_water>false</allow_in_water>
+    </generator_params>
+    <group_params>
+      <enablegroups>false</enablegroups>
+      <groups_as_regular>true</groups_as_regular>
+      <lifetime>360</lifetime>
+      <counter>-1</counter>
+    </group_params>
+    <generator_posbubbles>
+      <group name="Balota">
+        <pos x="4096.667" z="7510" />
+        <pos x="4160" z="7960" />
+        <pos x="4504" z="8160" />
+        <pos x="3876" z="8104" />
+        <pos x="4772" z="7352" />
+        <pos x="5496" z="7744" />
+      </group>
+      <group name="Cherno">
+        <pos x="5946.667" z="7876.667" />
+        <pos x="5993.333" z="7610" />
+        <pos x="6183.333" z="7873.333" />
+        <pos x="6013.333" z="8133.333" />
+        <pos x="5593.333" z="7876.667" />
+      </group>
+      <group name="Pusta">
+        <pos x="8554.286" z="9151.429" />
+        <pos x="8477.143" z="9374.286" />
+        <pos x="9145.715" z="9294.286" />
+        <pos x="9602.857" z="8902.857" />
+        <pos x="9054.286" z="8537.143" />
+      </group>
+      <group name="Kamyshovo">
+        <pos x="11331.43" z="8794.286" />
+        <pos x="12365" z="9140" />
+        <pos x="11902.5" z="8887.5" />
+        <pos x="12032.5" z="9150" />
+      </group>
+      <group name="Solnechny">
+        <pos x="12933.33" z="11691.11" />
+        <pos x="12715.55" z="11435.55" />
+        <pos x="13153.33" z="11071.11" />
+        <pos x="13062.22" z="11531.11" />
+        <pos x="12933.33" z="11144.44" />
+      </group>
+      <group name="Nizhnee">
+        <pos x="12428" z="13124" />
+        <pos x="12418" z="12878" />
+        <pos x="12684" z="12864" />
+        <pos x="11964" z="13158" />
+        <pos x="11862" z="13360" />
+        <pos x="12446" z="13408" />
+      </group>
+      <group name="Berezino">
+        <pos x="11384.44" z="14220" />
+        <pos x="11400" z="14857.78" />
+        <pos x="12033.33" z="14766.67" />
+        <pos x="11104.44" z="14822.22" />
+        <pos x="11144.44" z="14251.11" />
+      </group>
+    </generator_posbubbles>
+  </travel>
+</playerspawnpoints>

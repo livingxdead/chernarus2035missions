@@ -1,0 +1,133 @@
+{
+  "Areas": [
+    {
+      "AreaName": "NorvorskNuclearPlant",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [2180, 0, 5015.2941],
+        "Radius": 500,
+        "PosHeight": 20,
+        "NegHeight": 3,
+        "InnerPartDist": 100,
+        "OuterOffset": 20,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "PetrovkaNuclearPlant",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [5725.4545, 0, 17480],
+        "Radius": 300,
+        "PosHeight": 20,
+        "NegHeight": 3,
+        "InnerPartDist": 100,
+        "OuterOffset": 20,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "NorvorskNuclearPlant_Low",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [2346.731445, 14.144969, 4899.296875],
+        "Radius": 200,
+        "PosHeight": 50,
+        "NegHeight": 0,
+        "InnerPartDist": 100,
+        "OuterOffset": 20,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "NorvorskNuclearPlant_Low_2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [1959.752808, 9.504936, 4992.998535],
+        "Radius": 200,
+        "PosHeight": 50,
+        "NegHeight": 0,
+        "InnerPartDist": 100,
+        "OuterOffset": 20,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "NorvorskNuclearPlant_Low_3",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [2569.068604, 8.701376, 4911.898926],
+        "Radius": 200,
+        "PosHeight": 50,
+        "NegHeight": 0,
+        "InnerPartDist": 100,
+        "OuterOffset": 20,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[1185, 10470],
+		[6500, 12180],
+		[4446.667, 10993.33],
+		[4813.333, 9920],
+		[5986.667, 9506.666],
+		[5513.333, 11080],
+		[7600, 9580],
+		[9650, 11020],
+		[9945, 12455],
+		[12825, 12930],
+		[12600, 12445],
+		[12825, 12930],
+		[12600, 12445],
+		[12465, 11800],
+		[11670, 10510],
+		[12975, 11105],
+		[12760, 10313.33],
+		[10946.67, 10060],
+		[11013.33, 8066.667],
+		[12450, 9140],
+		[11810, 9690],
+		[9160, 7050],
+		[9700, 8690],
+		[9140, 8600],
+		[6240, 9390],
+		[5880, 7160],
+		[4680, 7200],
+		[3086.667, 7100],
+		[2173.333, 7206.667],
+		[1513.333, 7226.667],
+		[793.3333, 6880]
+	]
+}
