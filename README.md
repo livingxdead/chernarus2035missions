@@ -4,7 +4,7 @@ Mission files for the Dayz map Chernarus 2035
 
 # Installation
 - Copy the empty.Chernarus2035 to your servers mpmissions folder
-- update your ServerDZ.cfg to the following:
+- Update your ServerDZ.cfg to the following:
  ```
 class Missions
 {
