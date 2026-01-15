@@ -1317,6 +1317,14 @@
 		<attachments preset="headtorches" />
 		<attachments preset="OfficerHatArmy" />
 	</type>
+	<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments preset="headtorches" />
+		<attachments preset="OfficerHatArmy" />
+		<cargo preset="foodArmy" />
+		<cargo chance="0.6">
+			<item name="PunchedCard" chance="1.0" />
+		</cargo>
+	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
 		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy" />

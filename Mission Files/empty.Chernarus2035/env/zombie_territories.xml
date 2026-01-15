@@ -110,7 +110,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="1944.03" z="12519.4" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="1972.16" z="12352.5" r="50"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="2052.78" z="12440.6" r="50"/>
-        <zone name="InfectedArmyHard" smin="8" smax="10" dmin="8" dmax="10" x="12280" z="15756" r="60"/>
+        <zone name="InfectedVillage" smin="8" smax="10" dmin="8" dmax="10" x="12280" z="15756" r="60"/>
     </territory>
     <territory color="2387830984">
         <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="5" x="2509.74" z="10201" r="50"/>
