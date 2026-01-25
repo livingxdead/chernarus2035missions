@@ -891,8 +891,8 @@
         </children>
     </event>
     <event name="StaticTrain">
-        <nominal>0</nominal>
-        <min>1</min>
+        <nominal>1</nominal>
+        <min>0</min>
         <max>0</max>
         <lifetime>5400</lifetime>
         <restock>0</restock>
