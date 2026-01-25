@@ -20,7 +20,7 @@
       <allow_in_water>false</allow_in_water>
     </generator_params>
     <group_params>
-      <enablegroups>true</enablegroups>
+      <enablegroups>false</enablegroups>
       <groups_as_regular>true</groups_as_regular>
       <lifetime>240</lifetime>
       <counter>-1</counter>
