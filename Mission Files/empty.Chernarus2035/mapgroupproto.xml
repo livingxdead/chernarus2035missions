@@ -11618,11 +11618,12 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_Hangar_Green">
-				<usage name="Industrial" />
+				<usage name="Military" />
 				<container name="lootFloor" lootmax="6">
-						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+						<category name="weapons" />
+						<category name="explosives" />
 						<category name="food" />
 						<tag name="ground" />
 						<tag name="floor" />
