@@ -3,88 +3,81 @@
     <!-- Trains -->
     <!--pos x="8743.250977" z="7539.943848" a="0" y="8.379534" group="Train_Abandoned_Cherno"/-->
     <group name="Train_Abandoned_Cherno">
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000"  z="0.000000"   a="148.581680"/>
-      <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="38.989257" z="-60.070801" a="142.846878"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="31.779296" z="-50.074219" a="144.488419"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="12.746093" z="-20.569336" a="148.304657"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="19.123046" z="-30.849121" a="148.304657"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="25.395507" z="-40.721680" a="146.832855"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="6.361328"  z="-10.287110" a="148.304657"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000"  z="0.000000"   a="148.581680"/>
+        <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="38.989257" z="-60.070801" a="142.846878"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="31.779296" z="-50.074219" a="144.488419"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="12.746093" z="-20.569336" a="148.304657"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="19.123046" z="-30.849121" a="148.304657"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="25.395507" z="-40.721680" a="146.832855"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="6.361328"  z="-10.287110" a="148.304657"/>
     </group>
 
     <!--pos x="3644.969238" z="7341.093262" a="0" y="7.772873" group="TrainWreck_Kamarovo"/-->
     <group name="TrainWreck_Kamarovo">
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000"  z="0.000000"   a="-162.377899"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-3.929931" z="3.098633"   a="17.649250"/>
-      <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="-2.588379" z="7.138183"   a="17.649252"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="3.648926"  z="11.512695"  a="-162.377914"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-20.774658" z="-50.027344" a="-162.283218"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-5.125000" z="-0.775879"  a="17.649250"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-18.324951" z="-42.329590" a="-162.283218"/>
-      <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="11.267334" z="35.062500"  a="17.887838"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-10.307861" z="-17.225586" a="-162.528214"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-7.865967" z="-9.516602"  a="-162.528214"/>
-      <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="-14.290527" z="-29.625000" a="-162.404495"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="7.310303" z="23.015136"  a="-162.377930"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-14.273193" z="-29.693360" a="-162.404495"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-9.046386" z="-13.314942" a="-162.528198"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-19.480957" z="-46.082520" a="-162.283203"/>
+        <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="11.267334" z="35.062500"  a="17.887838"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000"  z="0.000000"   a="197.62"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="7.310303" z="23.015136"  a="197.62"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="3.648926"  z="11.512695"  a="197.62"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-3.929931" z="3.098633"   a="17.649250"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-14.273193" z="-29.693360" a="17.649252"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-9.046386" z="-13.314942" a="17.649252"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-19.480957" z="-46.082520" a="17.649252"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-10.307861" z="-17.225586" a="17.649252" />
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-7.865967" z="-9.516602"  a="17.649252" />
+        <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="-14.290527" z="-29.625000" a="17.649252"/>
+        <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="-2.588379" z="7.138183"   a="17.649252"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-20.774658" z="-50.027344" a="17.649252" />
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-5.125000" z="-0.775879"  a="17.649250" />
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-18.324951" z="-42.329590" a="17.649252" />
     </group>
 
     <!--pos x="11159.557617" z="8327.764648" a="0" y="8.368535" group="TrainWreck_Kamayshovo"/-->
     <group name="TrainWreck_Kamayshovo">
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000" z="0.000000" a="-133.828079"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-26.172851" z="-25.081054" a="-133.828079"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-17.447265" z="-16.723632" a="-133.828094"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-42.437500" z="-41.339843" a="-136.786423"/>
-      <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="26.721680" z="25.442383" a="46.630840"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="8.734375" z="8.380860" a="-133.828094"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-34.561523" z="-33.252929" a="-134.514999"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="17.459961" z="16.738282" a="-133.828110"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-8.725586" z="-8.357421" a="-133.828049"/>
+        <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="26.721680" z="25.442383" a="46.630840"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="0.000000" z="0.000000" a="45.97"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-26.172851" z="-25.081054" a="45.97"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-17.447265" z="-16.723632" a="45.97"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="17.459961" z="16.738282" a="45.97"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-8.725586" z="-8.357421" a="45.97"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="8.734375" z="8.380860" a="45.97"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-42.437500" z="-41.339843" a="45.49"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-34.561523" z="-33.252929" a="45.49"/>
     </group>
 
     <!--pos x="16144.952148" z="13758.736328" a="0" y="10.269236" group="TrainWreck_Polensk"/-->
     <group name="TrainWreck_Polensk">
-      <child type="StaticObj_Wreck_Train_742_Blue_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="0.000000" z="0.000000" a="-21.230019"/>
-      <child type="StaticObj_Rubble_DirtPile_Medium2" spawnsecondary="false" x="8.316407" z="-5.461914" a="0.000000"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="15.066407" z="-39.142578" a="158.579300"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="6.621094" z="-7.857422" a="30.015139"/>
-      <child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="20.367188" z="-52.795898" a="-21.230019"/>
-      <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="6.853516" z="-17.896484" a="-21.230019"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="10.700196" z="-27.887695" a="158.652328"/>
-      <child type="StaticObj_Misc_Pipes" spawnsecondary="false" x="21.887696" z="-56.674805" a="-109.332672"/>
-      <child type="StaticObj_Wreck_Digger" spawnsecondary="false" x="18.985352" z="-49.416992" a="-20.934593"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="5.396485" z="-14.267578" a="-21.354614"/>
-      <child type="Land_Wreck_hb02_aban2_red_DE" deloot="0" lootmax="3" lootmin="1" x="-4.256835" z="5.900391" a="52.833401"/>
+        <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="0.000000" z="0.000000" a="338.77" y="0.0"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="15.066407" z="-39.142578" a="158.579300"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="10.700196" z="-27.887695" a="158.652328"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="5.396485" z="-14.267578" a="157.07"/>
+        <child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="20.367188" z="-52.795898" a="158.77"/>
+        <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="6.853516" z="-17.896484" a="159.77"/>
+        <child type="Land_Wreck_hb02_aban2_red_DE" deloot="0" lootmax="3" lootmin="1" x="-4.256835" z="5.900391" a="52.833401"/>
     </group>
 
     <!--pos x="10843.272461" z="7742.170410" a="0" y="6.691071" group="TrainWreck_Elektrovavodsk"/-->
     <group name="TrainWreck_Elektrovavodsk">
-      <child type="StaticObj_Roadblock_Wood_Small_DE" deloot="0" lootmax="3" lootmin="1" x="0.000000" z="0.000000" a="18.540714"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-49.649414" z="-90.072265" a="-169.325974"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-56.796875" z="-128.230957" a="-169.300003"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-51.908203" z="-101.951172" a="-169.336090"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-56.083984" z="-124.320801" a="-169.029953"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-60.783203" z="-149.161621" a="-169.029953"/>
-      <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-60.005859" z="-145.127930" a="-169.300003"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-47.416016" z="-78.187500" a="-169.325974"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-59.285156" z="-141.200195" a="-169.029953"/>
-      <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="-41.751953" z="-48.852539" a="10.693990"/>
-      <child type="Land_Wreck_Ikarus_DE" deloot="0" lootmax="3" lootmin="1" x="-45.554688" z="-42.816406" a="-112.022919"/>
-      <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-57.544922" z="-132.275391" a="-169.029953"/>
-      <child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="-44.662109" z="-63.811035" a="-169.305954"/>
-      <child type="Land_wreck_truck01_aban1_firetruck_DE" deloot="0" lootmax="3" lootmin="1" x="-13.929688" z="-59.107422" a="0.000000"/>
-      <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-54.137695" z="-113.833008" a="-169.387390"/>
-      <child type="Land_wreck_truck01_aban1_firetruck_DE" deloot="0" lootmax="3" lootmin="1" x="-22.020508" z="-47.709473" a="-118.526291"/>
-      <child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="1" x="-65.125977" z="-56.681152" a="-58.819542"/>
-      <child type="Land_Wreck_sed01_aban2_police" deloot="0" lootmax="3" lootmin="1" x="-1.083008" z="-27.484375" a="0.000000"/>
-      <child type="Land_Wreck_sed01_aban1_police" deloot="0" lootmax="3" lootmin="1" x="-6.095703" z="-17.869141" a="67.548851"/>
-      <child type="StaticObj_Roadblock_Wood_Long_DE" deloot="0" lootmax="3" lootmin="1" x="-73.707031" z="-56.848144" a="-150.945389"/>
-      <child type="StaticObj_Roadblock_Wood_Small_DE" deloot="0" lootmax="3" lootmin="1" x="-76.173828" z="-67.489258" a="-151.633636"/>
-      <child type="StaticObj_Roadblock_Wood_Long_DE" deloot="0" lootmax="3" lootmin="1" x="3.226562" z="-6.479980" a="7.182893"/>
+        <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="-41.751953" z="-48.852539" a="10.693990" y="1.725"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-49.649414" z="-90.072265" a="10.67"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-51.908203" z="-101.951172" a="10.67"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-47.416016" z="-78.187500" a="10.67"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-54.137695" z="-113.833008" a="10.67"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-56.796875" z="-128.230957" a="11.70"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="-60.005859" z="-145.127930" a="11.70"/>
+        <child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="-44.662109" z="-63.811035" a="10.69"/>
+        <child type="Land_Wreck_Ikarus_DE" deloot="0" lootmax="3" lootmin="1" x="-45.554688" z="-42.816406" a="247.98"/>
+        <child type="Land_wreck_truck01_aban1_firetruck_DE" deloot="0" lootmax="3" lootmin="1" x="-13.929688" z="-59.107422" a="0.000000"/>
+        <child type="Land_wreck_truck01_aban1_firetruck_DE" deloot="0" lootmax="3" lootmin="1" x="-22.020508" z="-47.709473" a="241.47"/>
+        <child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="1" x="-65.125977" z="-56.681152" a="291.18"/>
+        <child type="Land_Wreck_sed01_aban2_police" deloot="0" lootmax="3" lootmin="1" x="-1.083008" z="-27.484375" a="0.000000"/>
+        <child type="Land_Wreck_sed01_aban1_police" deloot="0" lootmax="3" lootmin="1" x="-6.095703" z="-17.869141" a="67.548851"/>
+        <child type="StaticObj_Roadblock_Wood_Long_DE" deloot="0" lootmax="3" lootmin="1" x="-73.707031" z="-56.848144" a="39.05"/>
+        <child type="StaticObj_Roadblock_Wood_Small_DE" deloot="0" lootmax="3" lootmin="1" x="-76.173828" z="-67.489258" a="28.35"/>
+        <child type="StaticObj_Roadblock_Wood_Long_DE" deloot="0" lootmax="3" lootmin="1" x="3.226562" z="-6.479980" a="7.182893"/>
+        <child type="StaticObj_Roadblock_Wood_Small_DE" deloot="0" lootmax="3" lootmin="1" x="0.000000" z="0.000000" a="18.540714"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-60.783203" z="-149.161621" a="11.87" y="2.025"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="-59.285156" z="-141.200195" a="11.87" y="2.025"/>
     </group>
-
 
     <!--    Convoys     -->
 
